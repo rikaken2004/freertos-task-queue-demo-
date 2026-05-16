@@ -95,3 +95,12 @@ Rikaken
 ## 许可
 
 这个项目只是我学习过程中的练习，用于面试展示和个人记录。
+图片
+
+<img width="2106" height="841" alt="逻辑分析仪检测结果" src="https://github.com/user-attachments/assets/f8b7d9a4-85f4-4898-a6c6-975e657e3773" />
+<img width="2555" height="1211" alt="Stm32cubmx使用界面演示" src="https://github.com/user-attachments/assets/b7983f2f-b976-4369-9de7-4cb4212e57b9" />
+<img width="478" height="740" alt="系统展示" src="https://github.com/user-attachments/assets/c88a6f4f-1b9d-4221-91e3-663d76ce21a1" />
+
+
+
+
